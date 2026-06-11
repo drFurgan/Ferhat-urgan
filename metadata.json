@@ -1,0 +1,8 @@
+{
+  "name": "Remix: World Cup 2026",
+  "description": "FIFA World Cup 2026 official real-time groups, rosters, match simulator, live stats feed AND Gemini AI Match Predictor assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

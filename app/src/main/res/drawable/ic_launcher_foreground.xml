@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer soccer premium star/ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F0D458"
+        android:strokeWidth="4"
+        android:pathData="M 54,24 A 30,30 0 1,1 53.99,24 Z" />
+
+    <!-- Soccer Inner Star Logo representing Champions / 2026 World Cup Victory -->
+    <path
+        android:fillColor="#F0D458"
+        android:pathData="M54,34 L58.5,43.5 L69,45 L61.5,52 L63.5,62.5 L54,57.5 L44.5,62.5 L46.5,52 L39,45 L49.5,43.5 Z" />
+
+    <!-- Smooth visual curves representing stadium dynamics & Globe coordinates -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M 28,78 Q 54,65 80,78" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:pathData="M 22,85 Q 54,72 86,85" />
+</vector>
